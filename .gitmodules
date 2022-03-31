@@ -1,0 +1,27 @@
+[submodule "LABS/MODULE_1/lab-css-recipes-clone"]
+	path = LABS/MODULE_1/lab-css-recipes-clone
+	url = https://github.com/VINIRR99/lab-css-recipes-clone.git
+[submodule "LABS/MODULE_1/lab-css-spotify-clone"]
+	path = LABS/MODULE_1/lab-css-spotify-clone
+	url = https://github.com/VINIRR99/lab-css-spotify-clone.git
+[submodule "LABS/MODULE_1/lab-javascript-clue"]
+	path = LABS/MODULE_1/lab-javascript-clue
+	url = https://github.com/VINIRR99/lab-javascript-clue.git
+[submodule "LABS/MODULE_1/lab-javascript-functions-and-arrays"]
+	path = LABS/MODULE_1/lab-javascript-functions-and-arrays
+	url = https://github.com/VINIRR99/lab-javascript-functions-and-arrays.git
+[submodule "LABS/MODULE_3/lab-advance-querying-mongo"]
+	path = LABS/MODULE_3/lab-advance-querying-mongo
+	url = https://github.com/VINIRR99/lab-advance-querying-mongo.git
+[submodule "LABS/MODULE_3/lab-express-basic-site"]
+	path = LABS/MODULE_3/lab-express-basic-site
+	url = https://github.com/VINIRR99/lab-express-basic-site.git
+[submodule "LABS/MODULE_3/lab-mongoose-recipes"]
+	path = LABS/MODULE_3/lab-mongoose-recipes
+	url = https://github.com/VINIRR99/lab-mongoose-recipes.git
+[submodule "PROJECTS/Ironhack-project-module-1"]
+	path = PROJECTS/Ironhack-project-module-1
+	url = https://github.com/VINIRR99/Ironhack-project-module-1.git
+[submodule "PROJECTS/projectrecipe"]
+	path = PROJECTS/projectrecipe
+	url = https://github.com/tatafernandes/projectrecipe.git
