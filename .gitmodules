@@ -25,3 +25,9 @@
 [submodule "PROJECTS/projectrecipe"]
 	path = PROJECTS/projectrecipe
 	url = https://github.com/tatafernandes/projectrecipe.git
+[submodule "LABS/PREWORK"]
+	path = LABS/PREWORK
+	url = https://github.com/VINIRR99/lab-html-exercise.git
+[submodule "LABS/MODULE_1/lab-javascript-memory-game"]
+	path = LABS/MODULE_1/lab-javascript-memory-game
+	url = https://github.com/VINIRR99/lab-javascript-memory-game.git
