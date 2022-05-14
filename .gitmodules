@@ -31,3 +31,6 @@
 [submodule "LABS/MODULE_1/lab-javascript-memory-game"]
 	path = LABS/MODULE_1/lab-javascript-memory-game
 	url = https://github.com/VINIRR99/lab-javascript-memory-game.git
+[submodule "LABS/MODULE_1/lab-dom-pizza-builder"]
+	path = LABS/MODULE_1/lab-dom-pizza-builder
+	url = https://github.com/VINIRR99/lab-dom-pizza-builder.git
