@@ -37,3 +37,6 @@
 [submodule "LABS/MODULE_2/lab-react-ironbeers"]
 	path = LABS/MODULE_2/lab-react-ironbeers
 	url = https://github.com/VINIRR99/lab-react-ironbeers.git
+[submodule "TECH_CHALLENGE"]
+	path = TECH_CHALLENGE
+	url = https://github.com/VINIRR99/technical_challenge_WD.git
