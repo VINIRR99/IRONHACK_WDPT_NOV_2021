@@ -40,3 +40,6 @@
 [submodule "TECH_CHALLENGE"]
 	path = TECH_CHALLENGE
 	url = https://github.com/VINIRR99/technical_challenge_WD.git
+[submodule "PROJECTS/decadent-governmental-infrastructure-report"]
+	path = PROJECTS/decadent-governmental-infrastructure-report
+	url = https://github.com/VINIRR99/decadent-governmental-infrastructure-report-client.git
